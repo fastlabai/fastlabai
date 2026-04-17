@@ -1,4 +1,4 @@
-# 👋 Welcome to FastLab AI
+# 👋 Welcome to FastLab AI Technologies LLP
 
 **Building Enterprise-Grade AI Solutions That Transform Business**
 
